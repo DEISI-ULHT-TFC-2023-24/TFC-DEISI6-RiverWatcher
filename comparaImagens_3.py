@@ -4,8 +4,8 @@ import numpy as np
 
 
 # Pasta onde estão as imagens para serem comparadas
-pastaImagens = '/Users/fabiopegadosilveira/Desktop/TFC/2023_24/Python/Imagens/'
-pastaImagensOutput = '/Users/fabiopegadosilveira/Desktop/TFC/2023_24/Python/Imagens/Output/'
+pastaImagens = '/Users/fabiopegadosilveira/Documents/GitHub/TFC-DEISI6-RiverWatcher/Imagens'
+pastaImagensOutput = '/Users/fabiopegadosilveira/Documents/GitHub/TFC-DEISI6-RiverWatcher/Imagens/Output/'
 # Carrega as duas imagens que deseja comparar
 # Editar o nome para as imagens a comparar
 img1 = cv2.imread(pastaImagens + 'rio1.jpeg')

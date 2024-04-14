@@ -4,8 +4,8 @@ import os
 
 
 
-pastaImagens = '/Users/fabiopegadosilveira/Desktop/TFC/2023_24/Python/Imagens/'
-pastaImagensOutput = '/Users/fabiopegadosilveira/Desktop/TFC/2023_24/Python/Imagens/Output/'
+pastaImagens = '/Users/fabiopegadosilveira/Documents/GitHub/TFC-DEISI6-RiverWatcher/Imagens'
+pastaImagensOutput = '//Users/fabiopegadosilveira/Documents/GitHub/TFC-DEISI6-RiverWatcher/Imagens/Output/'
 
 
 for imagem in os.listdir(pastaImagens):
